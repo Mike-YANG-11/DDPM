@@ -1,4 +1,4 @@
-# diffusion_model
+# Denoising Diffusion Probabilistic Model
 - This repo. is a practice of coding a denoising diffusion probabilistic model (DDPM) from scratch
 - See `diffusion_model.ipynb`
 - Results of number 8 from MNIST (Deep ResUNet)
